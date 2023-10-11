@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalyan6013/awsassignmentbeapp.git"
+    "url": "git+https://github.com/kalyan6013/awsassignmentBeApp.git"
   },
   "keywords": [
     "test"
@@ -17,9 +17,9 @@
   "author": "HemanthKalyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalyan6013/awsassignmentbeapp/issues"
+    "url": "https://github.com/kalyan6013/awsassignmentBeApp/issues"
   },
-  "homepage": "https://github.com/kalyan6013/awsassignmentbeapp#readme",
+  "homepage": "https://github.com/kalyan6013/awsassignmentBeApp#readme",
   "dependencies": {
     "aws-sdk": "^2.1452.0",
     "body-parser": "^1.20.2",
